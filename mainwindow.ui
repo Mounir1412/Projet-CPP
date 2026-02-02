@@ -347,10 +347,10 @@ text-align: center;</string>
        <widget class="QFrame" name="formFrame">
         <property name="geometry">
          <rect>
-          <x>30</x>
-          <y>100</y>
+          <x>20</x>
+          <y>120</y>
           <width>380</width>
-          <height>351</height>
+          <height>421</height>
          </rect>
         </property>
         <property name="minimumSize">
@@ -381,9 +381,9 @@ text-align: center;</string>
         <widget class="QLabel" name="formTitle">
          <property name="geometry">
           <rect>
-           <x>30</x>
-           <y>40</y>
-           <width>195</width>
+           <x>20</x>
+           <y>50</y>
+           <width>241</width>
            <height>41</height>
           </rect>
          </property>
@@ -401,8 +401,8 @@ border-bottom: 2px solid #10b981;</string>
         <widget class="QLabel" name="labelCapacite">
          <property name="geometry">
           <rect>
-           <x>10</x>
-           <y>140</y>
+           <x>20</x>
+           <y>190</y>
            <width>101</width>
            <height>31</height>
           </rect>
@@ -417,8 +417,8 @@ border-bottom: 2px solid #10b981;</string>
         <widget class="QComboBox" name="comboEtat">
          <property name="geometry">
           <rect>
-           <x>133</x>
-           <y>182</y>
+           <x>130</x>
+           <y>240</y>
            <width>219</width>
            <height>41</height>
           </rect>
@@ -460,9 +460,9 @@ QComboBox:focus {
         <widget class="QLineEdit" name="editMatricule">
          <property name="geometry">
           <rect>
-           <x>133</x>
-           <y>94</y>
-           <width>219</width>
+           <x>140</x>
+           <y>130</y>
+           <width>211</width>
            <height>41</height>
           </rect>
          </property>
@@ -512,8 +512,8 @@ QLineEdit[readOnly=&quot;true&quot;] {
         <widget class="QComboBox" name="comboDisponibilite">
          <property name="geometry">
           <rect>
-           <x>133</x>
-           <y>226</y>
+           <x>130</x>
+           <y>300</y>
            <width>219</width>
            <height>41</height>
           </rect>
@@ -555,8 +555,8 @@ QComboBox:focus {
         <widget class="QLabel" name="labelMatricule">
          <property name="geometry">
           <rect>
-           <x>10</x>
-           <y>90</y>
+           <x>20</x>
+           <y>130</y>
            <width>101</width>
            <height>31</height>
           </rect>
@@ -571,8 +571,8 @@ QComboBox:focus {
         <widget class="QLabel" name="labelDisponibilite">
          <property name="geometry">
           <rect>
-           <x>10</x>
-           <y>220</y>
+           <x>20</x>
+           <y>310</y>
            <width>101</width>
            <height>31</height>
           </rect>
@@ -587,8 +587,8 @@ QComboBox:focus {
         <widget class="QLabel" name="labelEtat">
          <property name="geometry">
           <rect>
-           <x>10</x>
-           <y>180</y>
+           <x>20</x>
+           <y>250</y>
            <width>101</width>
            <height>31</height>
           </rect>
@@ -603,9 +603,9 @@ QComboBox:focus {
         <widget class="QLineEdit" name="editCapacite">
          <property name="geometry">
           <rect>
-           <x>133</x>
-           <y>138</y>
-           <width>219</width>
+           <x>140</x>
+           <y>190</y>
+           <width>211</width>
            <height>41</height>
           </rect>
          </property>
