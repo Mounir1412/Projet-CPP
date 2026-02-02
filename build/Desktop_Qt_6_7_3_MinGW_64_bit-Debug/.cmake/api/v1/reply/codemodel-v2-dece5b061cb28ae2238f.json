@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fc903f54f49f42b9a438.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "interfaceqt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "interfaceqt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interfaceqt-Debug-393715bad8067a69f7f6.json",
+					"name" : "interfaceqt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interfaceqt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interfaceqt_autogen-Debug-28a4b7031d8130c59c83.json",
+					"name" : "interfaceqt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interfaceqt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interfaceqt_autogen_timestamp_deps-Debug-82917b77247abd9d48bf.json",
+					"name" : "interfaceqt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/afefh/OneDrive/Bureau/projet qt/interfaceqt/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/afefh/OneDrive/Bureau/projet qt/interfaceqt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
